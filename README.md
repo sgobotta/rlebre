@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hey hey hey! 👋
+
+Based in Portugal, my name is Rui Lebre and I'm a software engineer. I graduated and got the masters degree in Computer and Telematics Engineering from University of Aveiro. Nowadays, I have a research fellowship in the this university while, at the same time I am a PhD candidate in Information and Communication Technologies  at University of A Coruña, Spain. 
+
+(A lot of) interest in web technologies as Express, Angular and more!
+
+You can find me on social: [LinkedIn][linkedin-url] [![LinkedIn][linkedin-img]][linkedin-url], [Twitter][twitter-url] [![Twitter][twitter-img]][twitter-url] or [Google Scholar][gscholar-url] [![Google Scholar][gscholar-img]][gscholar-url].
+
+You can also check out my [website][website-url].
+
 
 <!--
-**rlebre/rlebre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +21,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Here are some stats
+
+<a href="https://github.com/rlebre/rlebre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlebre&hide=swift,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+[linkedin-url]: https://www.linkedin.com/in/rui-lebre-435279101/
+[linkedin-img]: https://raw.githubusercontent.com/rlebre/rlebre/master/linkedin-3-16.png
+
+[twitter-url]: https://twitter.com/ralebre
+[twitter-img]: http://i.imgur.com/wWzX9uB.png
+
+[gscholar-url]: https://twitter.com/ralebre
+[gscholar-img]: https://raw.githubusercontent.com/rlebre/rlebre/master/google_scholar.png
+
+[website-url]: https://www.ruilebre.com
