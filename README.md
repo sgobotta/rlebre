@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 ### Stats
 
 <a href="https://github.com/rlebre/rlebre">
