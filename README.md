@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Here are some stats
+### Stats
 
 <a href="https://github.com/rlebre/rlebre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlebre&hide=swift,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/rlebre/rlebre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rlebre&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=5858ed&bg_color=1d1f21" alt="Rui Lebre GitHub Stats" />
 </a>
 
 
