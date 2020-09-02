@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [twitter-url]: https://twitter.com/ralebre
 [twitter-img]: http://i.imgur.com/wWzX9uB.png
 
-[gscholar-url]: https://twitter.com/ralebre
+[gscholar-url]: https://scholar.google.com/citations?user=WtJeCMMAAAAJ
 [gscholar-img]: https://raw.githubusercontent.com/rlebre/rlebre/master/google_scholar.png
 
 [website-url]: https://www.ruilebre.com
