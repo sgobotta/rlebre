@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 [gscholar-url]: https://scholar.google.com/citations?user=WtJeCMMAAAAJ
 [gscholar-img]: https://raw.githubusercontent.com/rlebre/rlebre/master/google_scholar.png
 
-[website-url]: https://www.ruilebre.com
+[website-url]: http://www.ruilebre.com
